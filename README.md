@@ -1,2 +1,1 @@
-# extensao-Chrome-Firefox
-Extensão desenvolvida para os navegadores Chrome e Firefox.
+Este repositório contém uma extensão para os navegadores Chrome e Firefox desenvolvida como parte da avaliação para a disciplina de Arquitetura de Software. Seu propósito é bloquear anúncios no formato Google Advertisement e DoubleClick, como uma forma de oferecer uma navegação mais limpa e focada. A arquitetura da extensão foi pensada de forma que permite a expansão de sua funcionalidade para incluir outros formatos de anúncios.
